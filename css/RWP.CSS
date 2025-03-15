@@ -1,0 +1,111 @@
+@media only screen and (max-width: 1200px) {
+   
+    .owl-nav{
+        display: none !important;
+    }
+  }
+@media only screen and (max-width: 990px) {
+   .fa3elyat{
+    display: flex;
+    flex-wrap: wrap !important;
+   }
+   .mob-nav{
+    display: block !important;
+  }
+  .scren-nav{
+    display: none;
+ }
+ .headerImg{
+    width: 50px !important;
+ }
+ .font-10{
+    font-size: 12px ;
+}
+.logo-mob{
+    display: none !important;
+ }
+ .search-mob{
+    display: block;
+ }
+ .lang-btn{
+    padding: 5px 15px !important;
+}
+.sec-lg-screan{
+    display: none;
+}
+.sec-mob-screan{
+    display: block !important;
+ }
+  }
+@media only screen and (max-width: 767px) {
+   
+    .MonspatWeFa3lyat{
+        width: 95% !important;
+        margin: auto;
+        
+    }
+    .footimg{
+        width: 60px;
+    }
+    .social{
+        background-color: #B88230;
+        width: 25px !important;
+        height: 25px !important;
+        border-radius: 50%;
+        transition: 0.4s;
+    }
+
+    .footer-links{
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: start !important;
+    }
+    .copywrite{
+        font-size: 13px;
+        padding: 0 30px;
+    }
+    .social-links{
+        justify-content: start !important;
+        padding: 10px 0px;
+    }
+
+  .mob-nav{
+    display: block !important;
+  }
+  .scren-nav{
+    display: none;
+ }
+
+ .logo-mob{
+    display: flex !important;
+ }
+ .search-mob{
+    display: none;
+ }
+
+ .font-10{
+    font-size: 8px !important;
+}
+.header1{
+    display: none;
+}
+.language{
+    justify-content: start !important;
+}
+.lang-btn{
+    padding: 0 15px !important;
+}
+.lang-icon{
+    width: 20px;
+}
+
+.font-12{
+    font-size: 12px !important;
+}
+
+.overly-slider{
+    top: 30% !important;
+
+}
+  }
